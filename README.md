@@ -42,5 +42,6 @@ applications.
 - single page app (CRUD)
 - can like posts or delete them
 
+Abandoned. Too many outdated packages to fix. Course is too old. 
 
 
